@@ -1,0 +1,108 @@
+header {
+    background-image:url("picture5.jpg");
+	background-repeat:-x;
+	background-attachment:fixed;
+    color:white;
+    text-align:left-side;
+	text-indent:20px;
+	font-family:verdana, helvetica, arial, sans-serif;
+	font-size:18px;
+    padding:5px;
+	height:140px;
+}
+nav {
+    background-image:url("picture5.jpg");
+    line-height:30px;
+    background-color:#eeeeee;
+    height:1280px;
+	font-family:verdana, helvetica, arial, sans-serif;
+    color:purple;
+    width:150px;
+    float:left;
+    padding:5px;	      
+}
+aside{
+     color:purple;
+      background-image:url("picture5.jpg");
+	 background-repeat:-x-high;
+	 background-attachment:fixed;
+     line-height:40px;
+	 background-color:darkgray;
+	 font-family:verdana, helvetica, arial, sans-serif;
+	 height:1280px;
+	 width:250px;
+	 float:right;
+	 padding:5px;
+}
+section {
+    background-image:url("picture5.jpg");
+    width:903px;
+	height:1280px;
+	text-justify;
+    background-color:brown;
+	font-family:verdana, helvetica, arial, sans-serif;
+	color:white;
+    float:left;
+    padding:5px; 	 
+}
+footer {
+    background-color:darkgray;
+	font-family:verdana, helvetica, arial, sans-serif;
+    color:white;
+    clear:both;
+    text-align:left;
+    padding:5px;	 	 
+}
+h1{
+color:white;
+font-family:verdana, helvetica, arial, sans-serif;
+}
+a:link {
+    color:white;
+    background-color:green;
+    text-decoration:none;
+    padding:3px 10px;
+    border-radius: 30px;
+}
+a:visited {
+    color:white;
+    background-color:green;
+    text-decoration:none;
+}
+a:hover {
+    color:white;
+    background-color:orange;
+    text-decoration:none;
+}
+l
+a:active {
+    color:white;
+    background-color:orange;
+    text-decoration:none;	
+}
+a#nano:link{
+    color:green;
+    background-color:gray;
+    text-decoration:none;
+    padding:3px 10px;
+    border-radius: 30px;
+}
+#links li{
+display:inline;
+background-color:seablue;
+border-radius:20px;
+}
+
+p{
+text-align:justify;
+font-size:14 px;
+font-family:verdana, helvetica, arial, sans-serif;
+text-indent:40px;
+padding-left:40px;
+padding-right:40px;
+}
+
+
+img{
+ padding-left:40px;
+ }

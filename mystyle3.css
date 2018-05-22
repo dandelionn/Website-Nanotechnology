@@ -1,0 +1,119 @@
+header {
+    background-image:url("wat.jpg");
+	background-repeat:-x;
+	background-attachment:fixed;
+    color:white;
+    text-align:left-side;
+	text-indent:20px;
+	font-family:verdana, helvetica, arial, sans-serif;
+	font-size:18px;
+    padding:5px;
+	height:140px;
+}
+span{
+    height:20px;
+	background-color:#fffff;
+	width:1300px;
+}
+nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:1280px;
+	font-family:verdana, helvetica, arial, sans-serif;
+    color:green;
+    width:150px;
+    float:left;
+    padding:5px;	      
+}
+aside{
+     color:green;
+	 background-repeat:-x-high;
+	 background-attachment:fixed;
+     line-height:40px;
+	 background-color:#eeeeee;
+	 font-family:verdana, helvetica, arial, sans-serif;
+	 height:1280px;
+	 width:250px;
+	 float:right;
+	 padding:5px;
+}
+section {
+    width:903px;
+	height:1280px;
+	text-justify;
+    background-color:#dddddd;
+	font-family:verdana, helvetica, arial, sans-serif;
+	color:blue;
+    float:left;
+    padding:5px; 	 
+}
+footer {
+    background-color:darkgray;
+	font-family:verdana, helvetica, arial, sans-serif;
+    color:white;
+    clear:both;
+    text-align:left;
+    padding:5px;	 	 
+}
+h1{
+color:green;
+font-family:verdana, helvetica, arial, sans-serif;
+}
+a:link {
+    color:white;
+    background-color:gray;
+    text-decoration:none;
+    padding:3px 10px;
+    border-radius: 30px;
+}
+a:visited {
+    color:white;
+    background-color:gray;
+    text-decoration:none;
+}
+a:hover {
+    color:black;
+    background-color:magenta;
+    text-decoration:none;
+}
+l
+a:active {
+    color:black;
+    background-color:magenta;
+    text-decoration:none;	
+}
+a#nano:link{
+    color:green;
+    background-color:gray;
+    text-decoration:none;
+    padding:3px 10px;
+    border-radius: 30px;
+}
+#links li{
+display:inline;
+background-color:seablue;
+border-radius:20px;
+}
+#ulink{
+     color:white;
+    background-color:transparent;
+    text-decoration:none;
+	font-family:verdana, helvetica, arial, sans-serif;
+	text-justify;
+	font-size:14 px;
+    padding:5px;
+}
+
+p{
+text-align:justify;
+font-size:14 px;
+font-family:verdana, helvetica, arial, sans-serif;
+text-indent:40px;
+padding-left:40px;
+padding-right:40px;
+}
+
+
+img{
+ padding-left:40px;
+ }
